@@ -1,0 +1,753 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "33f8cdad-f47e-43df-99d0-22232acd13cf")
+	(paper "A3")
+	(title_block
+		(title "LightRail Gen3 Optical PCIe Accelerator")
+		(rev "A")
+	)
+	(lib_symbols)
+	(junction
+		(at 160 182.88)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0368355a-d9a9-493e-a8ac-58cd6c964c10")
+	)
+	(junction
+		(at 160 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "61a94f79-57c8-476e-a6e8-4139ef9279e6")
+	)
+	(junction
+		(at 85.09 217.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "668ee69c-4277-4fb8-a58e-c6f77ba78dd9")
+	)
+	(junction
+		(at 160 189.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "82c8eea9-be6c-4ae7-bd98-fa01d2c26b0a")
+	)
+	(junction
+		(at 160 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "93633243-2290-4e1e-a4c8-13547fb08def")
+	)
+	(junction
+		(at 62.23 272.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da6127f0-b7bc-4057-996b-525a535565e9")
+	)
+	(junction
+		(at 62.23 210)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ef84197c-3836-4aae-93de-c3aabb7b5973")
+	)
+	(wire
+		(pts
+			(xy 62.23 210) (xy 62.23 272.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0444a5a9-9713-474e-9196-9b04e788be95")
+	)
+	(wire
+		(pts
+			(xy 137.16 189.23) (xy 137.16 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0b363510-6f21-452c-9ebf-fdb6d72a1345")
+	)
+	(wire
+		(pts
+			(xy 284.48 100) (xy 284.48 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1304212b-28e5-4a6e-87f1-e02bad3ff118")
+	)
+	(wire
+		(pts
+			(xy 160.02 189.23) (xy 160 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c1c51f3-f60f-429f-9375-eeeae7a9ec45")
+	)
+	(wire
+		(pts
+			(xy 100.33 210) (xy 100.33 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1fceae68-61f5-439d-abfc-28a2ef420eed")
+	)
+	(wire
+		(pts
+			(xy 146.07 272.97) (xy 62.23 272.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "326788b7-110c-4c1c-9d9e-893ea139049d")
+	)
+	(wire
+		(pts
+			(xy 85.09 210) (xy 85.09 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54d8876a-67d3-4656-bb69-17c33e3132b8")
+	)
+	(wire
+		(pts
+			(xy 284.48 133.35) (xy 383.54 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5fd8cf8a-e129-4b65-9fa9-2770082a2ac2")
+	)
+	(wire
+		(pts
+			(xy 160.02 182.88) (xy 160 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64907d30-35de-4318-a805-db3a94b0c1c1")
+	)
+	(wire
+		(pts
+			(xy 107.95 210) (xy 107.95 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6687a1a9-624b-4395-83bb-3713050d9556")
+	)
+	(wire
+		(pts
+			(xy 383.54 247.65) (xy 186.69 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fbc77e9-6d48-4692-8e0b-683fff83b88d")
+	)
+	(wire
+		(pts
+			(xy 186.69 247.65) (xy 186.69 260)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ffb2a1e-c1cd-4540-81f7-4e44c775654b")
+	)
+	(wire
+		(pts
+			(xy 85.09 217.17) (xy 85.09 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dd462d9-0f3b-49c0-8309-a8fca64fbef5")
+	)
+	(wire
+		(pts
+			(xy 62.23 272.97) (xy 62.23 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8288c2e4-dd12-4b93-9f15-23dfbea05caf")
+	)
+	(wire
+		(pts
+			(xy 274.32 194.31) (xy 280 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90f2a67a-6044-4057-bd94-91ccc9d80b41")
+	)
+	(wire
+		(pts
+			(xy 85.09 231.14) (xy 140.99 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93924fac-aeae-4c05-99a1-1357ffcdef2d")
+	)
+	(wire
+		(pts
+			(xy 133.35 213.36) (xy 107.95 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96c6bcbf-62a9-4ea1-9807-eedb5f497e5a")
+	)
+	(wire
+		(pts
+			(xy 85.09 217.17) (xy 274.32 217.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a41219f9-b4c7-4fbd-8450-36515ba42a45")
+	)
+	(wire
+		(pts
+			(xy 140.99 63.5) (xy 160 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6354ea3-060b-4309-86d9-5e78ca5cbfe9")
+	)
+	(wire
+		(pts
+			(xy 383.54 133.35) (xy 383.54 247.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a8c69b95-cccf-4bca-b72e-554e0153c1e0")
+	)
+	(wire
+		(pts
+			(xy 274.32 217.17) (xy 274.32 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbd9be47-a2ce-4d8e-badb-d62540513201")
+	)
+	(wire
+		(pts
+			(xy 160 189.23) (xy 137.16 189.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc25e72d-81d8-4934-ac25-33de64a14971")
+	)
+	(wire
+		(pts
+			(xy 160 182.88) (xy 133.35 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be90b56d-5e04-4292-b458-364388af8951")
+	)
+	(wire
+		(pts
+			(xy 146.07 81.28) (xy 146.07 272.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce0f6d82-fe9b-433f-a562-9159a31523d1")
+	)
+	(wire
+		(pts
+			(xy 160 63.5) (xy 160.02 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d00df503-6b33-4848-b2ac-79cd83954a95")
+	)
+	(wire
+		(pts
+			(xy 62.23 209.55) (xy 62.23 210)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc5a43f0-4fed-4ca6-9a06-cd9b287af790")
+	)
+	(wire
+		(pts
+			(xy 160.02 81.28) (xy 160 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec32333b-81c1-494d-b849-c0bfc529e52b")
+	)
+	(wire
+		(pts
+			(xy 140.99 231.14) (xy 140.99 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec41be37-6933-420c-ad3d-0ef750cda49d")
+	)
+	(wire
+		(pts
+			(xy 137.16 214.63) (xy 100.33 214.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f39648ef-70bf-4beb-a9b0-769b0be2aa39")
+	)
+	(wire
+		(pts
+			(xy 133.35 182.88) (xy 133.35 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5696868-4e82-468f-962d-6189ad2c6a71")
+	)
+	(wire
+		(pts
+			(xy 146.07 81.28) (xy 160 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7bc8ea5-2df3-4322-8ef2-a6937e247646")
+	)
+	(sheet
+		(at 40 40)
+		(size 90 60)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0fa318fe-5631-4970-a904-b68ce7e1a898")
+		(property "Sheetname" "Power_Tree"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "Power_Tree.kicad_sch"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(instances
+			(project "LightRail_Gen3"
+				(path "/33f8cdad-f47e-43df-99d0-22232acd13cf"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 280 150)
+		(size 90 60)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1a3d6899-1cf0-4a17-a634-23bbc7e3abb6")
+		(property "Sheetname" "Optical_RX"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "Optical_RX.kicad_sch"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "SERDES_RX0_P" input
+			(at 280 194.31 180)
+			(uuid "45e90de1-f298-4b4a-b77d-e208ad340e14")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LightRail_Gen3"
+				(path "/33f8cdad-f47e-43df-99d0-22232acd13cf"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40 150)
+		(size 90 60)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aa5f20fe-c548-4ee2-9871-191e8a508354")
+		(property "Sheetname" "SerDes"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "SerDes.kicad_sch"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "SERDES_RX0_N" input
+			(at 62.23 210 270)
+			(uuid "858cf751-21bc-4d1c-b931-5b0acc3b846b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SERDES_RX0_P" input
+			(at 85.09 210 270)
+			(uuid "d53e049f-f02b-458d-a450-763c4505faa4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SERDES_TX0_N" input
+			(at 100.33 210 270)
+			(uuid "d77a82ff-4ced-47e9-89b0-4c64204c0995")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SERDES_TX0_P" input
+			(at 107.95 210 270)
+			(uuid "650022b1-8f1c-4ff5-bd28-8d057f15fa5d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LightRail_Gen3"
+				(path "/33f8cdad-f47e-43df-99d0-22232acd13cf"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160 150)
+		(size 90 60)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ad9659ea-b06a-46c8-a881-48d81447b395")
+		(property "Sheetname" "Optical_TX"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "Optical_TX.kicad_sch"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "SERDES_TX0_N" input
+			(at 160 189.23 180)
+			(uuid "4d93e004-ea0d-4067-b578-f6b4097a6721")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SERDES_TX0_P" input
+			(at 160 182.88 180)
+			(uuid "413b97f7-2382-42c4-bc5e-077988e9a137")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LightRail_Gen3"
+				(path "/33f8cdad-f47e-43df-99d0-22232acd13cf"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 280 40)
+		(size 90 60)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "be414882-c9f7-4663-b583-63d288a3990f")
+		(property "Sheetname" "Clock_System"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "Clock_System.kicad_sch"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "SYS_CLK" input
+			(at 284.48 100 270)
+			(uuid "6b3d0312-d535-4637-a83d-9bd8219a0f96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LightRail_Gen3"
+				(path "/33f8cdad-f47e-43df-99d0-22232acd13cf"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160 40)
+		(size 90 60)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c90012cc-08d2-4f29-b62e-447dec15e470")
+		(property "Sheetname" "PCIe_Interface"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "PCIe_Interface.kicad_sch"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "SERDES_RX0_N" input
+			(at 160 81.28 180)
+			(uuid "60d41b26-77f4-4a32-8bc9-5758f051c5b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SERDES_RX0_P" input
+			(at 160 63.5 180)
+			(uuid "2843b490-0068-4a32-99fc-a8b14fb82530")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "LightRail_Gen3"
+				(path "/33f8cdad-f47e-43df-99d0-22232acd13cf"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 160 260)
+		(size 90 60)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e4012986-f492-417e-b28f-94056b3b7d3e")
+		(property "Sheetname" "Compute_Engine"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sheetfile" "Compute_Engine.kicad_sch"
+			(at -0.0001 -0.0001 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "SYS_CLK" input
+			(at 186.69 260 90)
+			(uuid "79a00d25-e932-4469-ae36-d32bd085a4b9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "LightRail_Gen3"
+				(path "/33f8cdad-f47e-43df-99d0-22232acd13cf"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

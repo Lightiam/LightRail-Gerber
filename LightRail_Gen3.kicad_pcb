@@ -1,0 +1,27 @@
+
+(kicad_pcb
+ (version 20240101)
+ (generator template)
+
+ (general
+  (thickness 2.4)
+ )
+
+ (layers
+  (0 "F.Cu" signal)
+  (1 "In1.GND" power)
+  (2 "In2.Signal" signal)
+  (3 "In3.GND" power)
+  (4 "In4.Signal" signal)
+  (5 "In5.Power" power)
+  (6 "In6.Signal" signal)
+  (7 "In7.GND" power)
+  (8 "In8.Signal" signal)
+  (9 "In9.GND" power)
+  (10 "In10.Signal" signal)
+  (11 "In11.Power" power)
+  (12 "In12.GND" power)
+  (13 "In13.RF" signal)
+  (14 "B.Cu" signal)
+ )
+)
