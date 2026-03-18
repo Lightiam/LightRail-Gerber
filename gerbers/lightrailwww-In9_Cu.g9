@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,9.0.8*%
-%TF.CreationDate,2026-03-17T00:42:43-07:00*%
+%TF.CreationDate,2026-03-17T20:01:19-07:00*%
 %TF.ProjectId,lightrailwww,6c696768-7472-4616-996c-7777772e6b69,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Copper,L10,Inr*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 9.0.8) date 2026-03-17 00:42:43*
+G04 Created by KiCad (PCBNEW 9.0.8) date 2026-03-17 20:01:19*
 %MOMM*%
 %LPD*%
 G01*
@@ -33,7 +33,7 @@ G04 APERTURE LIST*
 %ADD16C,0.600000*%
 %TD*%
 %TA.AperFunction,Conductor*%
-%ADD17C,0.250000*%
+%ADD17C,0.270000*%
 %TD*%
 G04 APERTURE END LIST*
 D10*
@@ -256,7 +256,7 @@ X142801057Y-77151000D03*
 %TD*%
 D17*
 %TO.N,*%
-X94975000Y-73975000D02*
-X170025000Y-73975000D01*
+X94975000Y-85975000D02*
+X170025000Y-85975000D01*
 %TD*%
 M02*
