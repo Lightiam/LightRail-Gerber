@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.8"
     },
-    "CreationDate": "2026-03-17T00:42:44-07:00"
+    "CreationDate": "2026-03-17T19:39:34-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -17,7 +17,7 @@
       "X": 95.05,
       "Y": 82.05
     },
-    "LayerNumber": 16,
+    "LayerNumber": 6,
     "BoardThickness": 1.6,
     "Finish": "None"
   },
@@ -68,58 +68,8 @@
       "FilePolarity": "Positive"
     },
     {
-      "Path": "lightrailwww-In5_Cu.g5",
-      "FileFunction": "Copper,L6,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "lightrailwww-In6_Cu.g6",
-      "FileFunction": "Copper,L7,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "lightrailwww-In7_Cu.g7",
-      "FileFunction": "Copper,L8,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "lightrailwww-In8_Cu.g8",
-      "FileFunction": "Copper,L9,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "lightrailwww-In9_Cu.g9",
-      "FileFunction": "Copper,L10,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "lightrailwww-In10_Cu.g10",
-      "FileFunction": "Copper,L11,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "lightrailwww-In11_Cu.g11",
-      "FileFunction": "Copper,L12,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "lightrailwww-In12_Cu.g12",
-      "FileFunction": "Copper,L13,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "lightrailwww-In13_Cu.g13",
-      "FileFunction": "Copper,L14,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
-      "Path": "lightrailwww-In14_Cu.g14",
-      "FileFunction": "Copper,L15,Inr",
-      "FilePolarity": "Positive"
-    },
-    {
       "Path": "lightrailwww-B_Cu.gbl",
-      "FileFunction": "Copper,L16,Bot",
+      "FileFunction": "Copper,L6,Bot",
       "FilePolarity": "Positive"
     },
     {
@@ -239,7 +189,7 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.068,
+      "Thickness": 0.274,
       "Material": "FR4",
       "Name": "F.Cu/In1.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to In1.Cu)"
@@ -251,7 +201,7 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.068,
+      "Thickness": 0.274,
       "Material": "FR4",
       "Name": "In1.Cu/In2.Cu",
       "Notes": "Type: dielectric layer 2 (from In1.Cu to In2.Cu)"
@@ -263,7 +213,7 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.068,
+      "Thickness": 0.274,
       "Material": "FR4",
       "Name": "In2.Cu/In3.Cu",
       "Notes": "Type: dielectric layer 3 (from In2.Cu to In3.Cu)"
@@ -275,7 +225,7 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.068,
+      "Thickness": 0.274,
       "Material": "FR4",
       "Name": "In3.Cu/In4.Cu",
       "Notes": "Type: dielectric layer 4 (from In3.Cu to In4.Cu)"
@@ -287,130 +237,10 @@
     },
     {
       "Type": "Dielectric",
-      "Thickness": 0.068,
+      "Thickness": 0.274,
       "Material": "FR4",
-      "Name": "In4.Cu/In5.Cu",
-      "Notes": "Type: dielectric layer 5 (from In4.Cu to In5.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In5.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.068,
-      "Material": "FR4",
-      "Name": "In5.Cu/In6.Cu",
-      "Notes": "Type: dielectric layer 6 (from In5.Cu to In6.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In6.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.068,
-      "Material": "FR4",
-      "Name": "In6.Cu/In7.Cu",
-      "Notes": "Type: dielectric layer 7 (from In6.Cu to In7.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In7.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.068,
-      "Material": "FR4",
-      "Name": "In7.Cu/In8.Cu",
-      "Notes": "Type: dielectric layer 8 (from In7.Cu to In8.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In8.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.068,
-      "Material": "FR4",
-      "Name": "In8.Cu/In9.Cu",
-      "Notes": "Type: dielectric layer 9 (from In8.Cu to In9.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In9.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.068,
-      "Material": "FR4",
-      "Name": "In9.Cu/In10.Cu",
-      "Notes": "Type: dielectric layer 10 (from In9.Cu to In10.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In10.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.068,
-      "Material": "FR4",
-      "Name": "In10.Cu/In11.Cu",
-      "Notes": "Type: dielectric layer 11 (from In10.Cu to In11.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In11.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.068,
-      "Material": "FR4",
-      "Name": "In11.Cu/In12.Cu",
-      "Notes": "Type: dielectric layer 12 (from In11.Cu to In12.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In12.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.068,
-      "Material": "FR4",
-      "Name": "In12.Cu/In13.Cu",
-      "Notes": "Type: dielectric layer 13 (from In12.Cu to In13.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In13.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.068,
-      "Material": "FR4",
-      "Name": "In13.Cu/In14.Cu",
-      "Notes": "Type: dielectric layer 14 (from In13.Cu to In14.Cu)"
-    },
-    {
-      "Type": "Copper",
-      "Thickness": 0.035,
-      "Name": "In14.Cu"
-    },
-    {
-      "Type": "Dielectric",
-      "Thickness": 0.068,
-      "Material": "FR4",
-      "Name": "In14.Cu/B.Cu",
-      "Notes": "Type: dielectric layer 15 (from In14.Cu to B.Cu)"
+      "Name": "In4.Cu/B.Cu",
+      "Notes": "Type: dielectric layer 5 (from In4.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
